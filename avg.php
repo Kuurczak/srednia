@@ -1,1 +1,3 @@
 SREDNIA
+
+waga 7
