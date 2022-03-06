@@ -1,3 +1,0 @@
-SREDNIA
-
-waga 9
